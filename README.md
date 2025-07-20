@@ -106,7 +106,7 @@ This project builds on:
 ## 👤 Author
 
 **Praneet Kulkarni**  
-Email: [your-email@example.com]  
-LinkedIn: [your-linkedin-url]  
+Email: praneet@akashx.ai  
+LinkedIn: https://www.linkedin.com/in/praneet-kulkarni/
 
 If you use this work, please consider citing the original repositories and this implementation.
